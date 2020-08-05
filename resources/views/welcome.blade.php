@@ -70,7 +70,6 @@
                     @auth
                     @if(Auth::user()->isAdministrator())
                             <strong><a href="{{url('/admin/index')}}" style="color: #1b4b72; text-decoration: none;">Администратор</a></strong>
-                            <strong><a href="{{url('/')}}" style="color: #1b4b72; text-decoration: none;">Главная</a></strong>
                         @endif
                         <strong>
                             <a class="dropdown-item" href="{{ route('logout') }}" style="color: #1d68a7; text-decoration: none"
@@ -81,7 +80,7 @@
 
                         </strong>
                         <form id="logout-form" action="{{route('logout')}}" method="POST" style="display: none;">
-
+                            <input type="hidden" name="_token" value="{{ csrf_token() }}">
 
                         </form>
 

@@ -132,6 +132,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP_7.2-x64/php.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
@@ -151,7 +157,7 @@
       <updated>1596630441578</updated>
       <workItem from="1596630443078" duration="755000" />
       <workItem from="1596631206678" duration="505000" />
-      <workItem from="1596631721425" duration="869000" />
+      <workItem from="1596631721425" duration="2945000" />
     </task>
     <servers />
   </component>

@@ -7,5 +7,7 @@ use App\Http\Controllers\Controller;
 
 class NewsController extends Controller
 {
-    return view('news.admin.index');
+    public  function index(){
+        return view('news.admin.index');
+    }
 }
