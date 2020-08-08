@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae31d54b-9eeb-496d-b7a1-a77020af8ec8" name="Default Changelist" comment="" />
+    <list default="true" id="ae31d54b-9eeb-496d-b7a1-a77020af8ec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/js/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app_admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/272d615a-59aa-4f53-9a72-d7b5cb0d4f70.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/272d615a-59aa-4f53-9a72-d7b5cb0d4f70.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/news_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/news_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ide_helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/_ide_helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/news/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/news/admin/index.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +45,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -123,6 +154,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fgCe74IENMe4dJnNORl3HC9mab" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,7 +163,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP_7.2-x64/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,6 +172,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OP\OSPanel\domains\sp\resources\views\layouts" />
+      <recent name="D:\OP\OSPanel\domains\sp\public\js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -158,25 +196,39 @@
       <workItem from="1596630443078" duration="755000" />
       <workItem from="1596631206678" duration="505000" />
       <workItem from="1596631721425" duration="2945000" />
+      <workItem from="1596802426893" duration="3241000" />
+      <workItem from="1596805916628" duration="1806000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="540" y="174" key="#CLI_Interpreters" timestamp="1596631050052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596631050052" />
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596631508273">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596804518334">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596631508273" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596631041640">
+    <state x="2472" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596804518334" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596872000364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596631041640" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596872000364" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1596632205360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
